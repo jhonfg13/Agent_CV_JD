@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 GEMINI_CONFIG = {
     "provider": "gemini",
     "model": "gemini-2.0-flash",
-    "api_key": "AIzaSyAqkLokEksQMO_4kBaDjXh6Q72lDPHE6y0",
+    "api_key": "key",
     "max_tokens": 300,
     "temperature": 0
 }
